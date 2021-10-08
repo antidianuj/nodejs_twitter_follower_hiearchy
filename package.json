@@ -1,0 +1,20 @@
+{
+  "name": "twitter_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "csv-writer": "^1.6.0",
+    "express": "^4.17.1",
+    "get-twitter-followers": "^2.0.0",
+    "twitter": "^1.7.1",
+    "twitter-tokens": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
